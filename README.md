@@ -1,7 +1,7 @@
 <!-- GitHub README with DevOps Focus -->
 <h1 align="center">👋 Hi, I'm Glenn Muga , a Devops Enthusiast and a SW Engineer !</h1>
 <p align="center">
-  <img src="https://static-00.iconduck.com/assets.00/devops-icon-512x497-6rrk6or1.png" width="50" height="50" alt="DevOps Enthusiast">
+  <img src="https://www.svgrepo.com/show/354354/devops.svg" width="50" height="50" alt="DevOps Enthusiast">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50" alt="AWS">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" alt="Azure">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub Actions">
