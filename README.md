@@ -1,5 +1,5 @@
 <!-- GitHub README with DevOps Focus -->
-<h1 align="center">👋 Hi, I'm Glenn Muga , a Devops Enthusiast and a SW Engineer !</h1>
+<h1 align="center">👋 Hi There! , I'm Glenn Muga , a Devops Enthusiast and a SW Engineer</h1>
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="200" height="150" alt="Animated Boy Coding">
 </p>
@@ -12,7 +12,7 @@
 </p>
 
 ## 🚀 About Me
-- 🔹 Passionate about **DevOps**, **Cloud Computing**, and **Automation**.
+- 🔹 Passionate about **DevOps**, **Data Science**, and **Analytics**.
   
 - 🌱 Currently learning **Kubernetes, Terraform, Jenkins , AWS , Azure , Docker , XTS and SFE**.
   
