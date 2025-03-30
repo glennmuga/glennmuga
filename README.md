@@ -1,7 +1,7 @@
 <!-- GitHub README with DevOps Focus -->
 <h1 align="center">👋 Hi There! , I'm Glenn Muga , a Devops Enthusiast and a SW Engineer</h1>
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="200" height="150" alt="Animated Boy Coding">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" height="300" alt="Animated Boy Coding">
 </p>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50" alt="AWS">
